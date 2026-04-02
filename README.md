@@ -1,99 +1,97 @@
-# Hi, I'm Melissa 👋
+# Hi, I'm Melissa
 
-Data, BI & Analytics professional bridging business needs, data science and decision-making.
+Data, BI & Analytics professional working between business, data science and decision-making.
 
-I work on structuring complex data environments, making KPIs more reliable, and building tools that support real business decisions.
+My work is mostly about bringing structure where data is fragmented: clarifying KPIs, aligning business rules, and building tools that people can actually use to make decisions.
 
-- - -
+---
 
-## 🔍 What I do
+## What I do
 
-- 📊 Build forecasting and demand planning solutions connected to real business and operational needs (S&Op)
-- 📈 Design decision-oriented dashboards and analytical tools to support business performance steering
-- 🧠 Structure complex data environments through data models, KPI frameworks, business rules and governance foundations
-- 🏗️ Contribute to building a more mature data function, with stronger alignment between business, reporting and data practices
-- 🔄 Resolve inconsistencies between sources and metric definitions to make data more reliable and actionable
-- 🤝 Translate business needs into data use cases, analytical approaches and concrete tools
-- 🤖 Explore AI opportunities, run data experiments and build proof-of-concepts for future implementation
-- ⚙️ Develop analytics and transformation pipelines using Python, SQL, Power BI and Microsoft Fabric
+- Build forecasting and demand planning approaches connected to real operational constraints (S&OP)
+- Design dashboards and KPIs that help teams understand performance and take action
+- Structure data where things are unclear: models, rules, definitions, governance
+- Help bring more consistency between business, reporting and data practices
+- Investigate gaps between data sources and fix inconsistencies in key indicators
+- Turn business questions into concrete data use cases and tools
+- Explore AI use cases and build proof-of-concepts to test what can realistically be implemented
+- Work across analytics pipelines using Python, SQL, Power BI and Microsoft Fabric
 
-- - -
+---
 
-## 🚀 Featured work
+## Featured work
 
-### 🧩 Data transformation & structuring
+### Data transformation & structuring
 
-Led the structuring of a data environment from the ground up in a complex business context:
+Worked on structuring a data environment from scratch in a context where data was fragmented and inconsistent:
 
-- Centralized fragmented data into a unified platform using Microsoft Fabric
-- Designed data pipelines and transformation logic
-- Redefined business rules and KPIs to improve consistency across teams
-- Reconciled conflicting definitions of key metrics
-- Introduced a first layer of data governance around ownership, rules and usage
+- Centralized multiple sources into a unified platform (Microsoft Fabric)
+- Built pipelines and transformation layers
+- Clarified business rules and KPI definitions across teams
+- Identified and resolved inconsistencies between indicators
+- Introduced initial governance practices (ownership, usage, rules)
 
-👉 Outcome: turned fragmented and unreliable data into a more structured, aligned and decision-ready environment
+→ Result: data became usable, more consistent, and actually reliable for decision-making
 
-- - -
+---
 
-### 📊 Sales Forecasting (S&OP)
+### Sales Forecasting (S&OP)
 
-Developed forecasting approaches designed to reflect real business constraints and product lifecycle dynamics:
+Built forecasting approaches that reflect real business constraints:
 
 - product substitutions
 - working days adjustment
-- business-driven modeling
+- business-driven logic
 
-👉 Focus: improving forecast relevance, usability and decision support
+→ Focus: making forecasts usable, not just statistically correct
 
-- - -
+---
 
-### 📈 Business Dashboards & KPI Design
+### Business Dashboards & KPI Design
 
-Designed decision-oriented dashboards and KPI frameworks to support business steering:
+Designed dashboards used for performance monitoring and decision-making:
 
-- anonymized data
-- clear metric structure
-- alignment between business logic and reporting
-- usability for non-technical stakeholders
+- clear KPI structure
+- alignment with business logic
+- usability for non-technical users
 
-👉 Goal: provide tools that support action, alignment and performance monitoring
+→ Goal: help teams understand what’s happening and what to do next
 
-- - -
+---
 
-### 🔄 Data Reallocation & Reconciliation
+### Data Reallocation & Reconciliation
 
-Worked on understanding and resolving discrepancies between sales indicators and reporting sources:
+Worked on understanding why numbers don’t match across sources:
 
-- sell-in vs sell-out logic
-- reallocation rules
-- inconsistencies across sources and definitions
+- sell-in vs sell-out
+- reallocation logic
+- inconsistent definitions
 
-👉 Focus: making indicators more reliable, understandable and actionable for stakeholders
+→ Focus: making indicators understandable and trusted
 
-- - -
+---
 
-### 🤖 AI experimentation & proof-of-concepts
+### AI experimentation & proof-of-concepts
 
-Explored and tested data/AI use cases to prepare future implementation within the company:
+Tested data/AI use cases in a business context:
 
-- identification of relevant business use cases
-- experimentation on concrete scenarios
-- development of proof-of-concepts
-- translation of business needs into practical data/AI approaches
+- identified relevant use cases
+- built small experiments and POCs
+- translated needs into concrete approaches
 
-👉 Goal: bridge innovation opportunities with real operational value
+→ Goal: connect AI topics with real operational value
 
-- - -
+---
 
-## 🛠️ Main tools & areas of work
+## Main tools & areas of work
 
-- **Analytics & forecasting:** Python, Pandas, Prophet, Excel
-- **BI & decision support:** Power BI, KPI design, dashboarding
-- **Data structuring:** SQL, data cleaning, reconciliation, business rules
-- **Data platform:** Microsoft Fabric, pipelines, modeling, centralized reporting
+- Analytics & forecasting: Python, Pandas, Prophet, Excel  
+- BI & decision support: Power BI, KPI design, dashboards  
+- Data structuring: SQL, data cleaning, reconciliation, business rules  
+- Data platform: Microsoft Fabric, pipelines, modeling  
 
-- - -
+---
 
-## 📫 Connect
+## Connect
 
-- LinkedIn: www.linkedin.com/in/mélissa-aydin-3732a3123
+LinkedIn: https://www.linkedin.com/in/mélissa-aydin-3732a3123
